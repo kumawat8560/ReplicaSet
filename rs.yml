@@ -17,5 +17,5 @@ spec:
                 spec:
                         containers:
                                 - name: myweb-container
-                                  image: roshankumawat8560/apache-web-server
+                                  image: roshankumawat8560/apache-web-server:v1
 
